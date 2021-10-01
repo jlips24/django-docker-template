@@ -1,7 +1,6 @@
-# Django/Python
-db.sqlite3
+# Python
 __pycache__/
 
-# Library
-venv/
-
+# Environment
+.env.prod
+.env.prod.db
